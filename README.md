@@ -16,6 +16,6 @@ diagnosis.
 
 ## Project Report
 
-[📄 View the PDF](docs/ProjectReport.pdf)
+[📄 View the PDF](ProjectReport.pdf)
 
 
