@@ -2,7 +2,7 @@
 
 ---
 
-## Project Details:
+## Project Details
 
 **Knee Diagnosis** 
 
